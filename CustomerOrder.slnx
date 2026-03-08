@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="CustomerOrder.Application.Configurations/CustomerOrder.Application.Configurations.csproj" />
+  <Project Path="CustomerOrder.Models/CustomerOrder.Models.csproj" />
+  <Project Path="CustomerOrder.Repositories.Abstractions/CustomerOrder.Repositories.Abstractions.csproj" />
+  <Project Path="CustomerOrder.Repositories/CustomerOrder.Repositories.csproj" />
+  <Project Path="CustomerOrder.Services.Abstractions/CustomerOrder.Services.Abstractions.csproj" />
+  <Project Path="CustomerOrder.Services/CustomerOrder.Services.csproj" />
+  <Project Path="CustomerOrder/CustomerOrder.csproj" />
+</Solution>
