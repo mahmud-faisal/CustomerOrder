@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nsJKY3Jk8xk=",
+  "dgSpecHash": "VuZci5bDnrQ=",
   "success": true,
-  "projectFilePath": "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories.Abstractions\\CustomerOrder.Repositories.Abstractions.csproj",
+  "projectFilePath": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Repositories.Abstractions\\CustomerOrder.Repositories.Abstractions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

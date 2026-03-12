@@ -16,6 +16,6 @@ namespace CustomerOrder.Repositories.Abstractions
         T Get(Expression<Func<T, bool>> predicate);
         ICollection<T> GetMany(Expression<Func<T, bool>> predicate);
 
-        //IQueryable<T> GetQueryable();
+        IQueryable<T> GetQueryable();
     }
 }
