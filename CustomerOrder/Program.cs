@@ -1,9 +1,18 @@
+using CustomerOrder.Application.Configurations;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddRepositories();
+builder.Services.AddServices();
+
+//-----------
 
 var app = builder.Build();
+
+//-----------------
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

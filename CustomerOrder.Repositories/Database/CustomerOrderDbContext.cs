@@ -13,8 +13,8 @@ namespace CustomerOrder.Repositories.Database
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-
-            //optionsBuilder.UseSqlServer(connectionString);
+            string connectionString = "Server=localhost;Database=CustomerOrderDB;Trusted_Connection=True;TrustServerCertificate=True";
+            optionsBuilder.UseSqlServer(connectionString);
             optionsBuilder.EnableSensitiveDataLogging(true);
         }
     }

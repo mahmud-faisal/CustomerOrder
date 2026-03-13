@@ -3,36 +3,92 @@
   "WorkspaceRootPath": "E:\\Project\\CustomerOrder\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05051DCB-A59C-49E9-8750-DCC6E4C90F14}|CustomerOrder.Services.Abstractions\\CustomerOrder.Services.Abstractions.csproj|e:\\project\\customerorder\\customerorder.services.abstractions\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05051DCB-A59C-49E9-8750-DCC6E4C90F14}|CustomerOrder.Services.Abstractions\\CustomerOrder.Services.Abstractions.csproj|solutionrelative:customerorder.services.abstractions\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{757405E6-5145-0728-2D98-81216F99560E}|CustomerOrder.Repositories\\CustomerOrder.Repositories.csproj|e:\\project\\customerorder\\customerorder.repositories\\migrations\\20260313183953_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757405E6-5145-0728-2D98-81216F99560E}|CustomerOrder.Repositories\\CustomerOrder.Repositories.csproj|solutionrelative:customerorder.repositories\\migrations\\20260313183953_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0328745E-1BAD-4C63-A275-351F7D41B314}|CustomerOrder.Repositories.Abstractions\\CustomerOrder.Repositories.Abstractions.csproj|e:\\project\\customerorder\\customerorder.repositories.abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0328745E-1BAD-4C63-A275-351F7D41B314}|CustomerOrder.Repositories.Abstractions\\CustomerOrder.Repositories.Abstractions.csproj|solutionrelative:customerorder.repositories.abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{757405E6-5145-0728-2D98-81216F99560E}|CustomerOrder.Repositories\\CustomerOrder.Repositories.csproj|e:\\project\\customerorder\\customerorder.repositories\\database\\customerorderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757405E6-5145-0728-2D98-81216F99560E}|CustomerOrder.Repositories\\CustomerOrder.Repositories.csproj|solutionrelative:customerorder.repositories\\database\\customerorderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{632E9ECA-72A1-4344-9954-0170F95B0B90}|CustomerOrder.Repositories\\CustomerOrder.Repositories.csproj|e:\\project\\customerorder\\customerorder.repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{632E9ECA-72A1-4344-9954-0170F95B0B90}|CustomerOrder.Repositories\\CustomerOrder.Repositories.csproj|solutionrelative:customerorder.repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CB14024-668E-3681-ED32-77B8A7E1F1DD}|CustomerOrder\\CustomerOrder.csproj|e:\\project\\customerorder\\customerorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB14024-668E-3681-ED32-77B8A7E1F1DD}|CustomerOrder\\CustomerOrder.csproj|solutionrelative:customerorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{632E9ECA-72A1-4344-9954-0170F95B0B90}|CustomerOrder.Repositories\\CustomerOrder.Repositories.csproj|e:\\project\\customerorder\\customerorder.repositories\\database\\customerorderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{632E9ECA-72A1-4344-9954-0170F95B0B90}|CustomerOrder.Repositories\\CustomerOrder.Repositories.csproj|solutionrelative:customerorder.repositories\\database\\customerorderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CB14024-668E-3681-ED32-77B8A7E1F1DD}|CustomerOrder\\CustomerOrder.csproj|e:\\project\\customerorder\\customerorder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CB14024-668E-3681-ED32-77B8A7E1F1DD}|CustomerOrder\\CustomerOrder.csproj|solutionrelative:customerorder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77127FFA-657A-4DEF-BB27-5E1F747A5FE7}|CustomerOrder.Models\\CustomerOrder.Models.csproj|e:\\project\\customerorder\\customerorder.models\\entitymodels\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77127FFA-657A-4DEF-BB27-5E1F747A5FE7}|CustomerOrder.Models\\CustomerOrder.Models.csproj|solutionrelative:customerorder.models\\entitymodels\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B69AAAD6-D44A-FFC3-B27E-D9A97C95E3CA}|CustomerOrder.Application.Configurations\\CustomerOrder.Application.Configurations.csproj|e:\\project\\customerorder\\customerorder.application.configurations\\dependencyinjectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B69AAAD6-D44A-FFC3-B27E-D9A97C95E3CA}|CustomerOrder.Application.Configurations\\CustomerOrder.Application.Configurations.csproj|solutionrelative:customerorder.application.configurations\\dependencyinjectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77127FFA-657A-4DEF-BB27-5E1F747A5FE7}|CustomerOrder.Models\\CustomerOrder.Models.csproj|e:\\project\\customerorder\\customerorder.models\\entitymodels\\customercategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77127FFA-657A-4DEF-BB27-5E1F747A5FE7}|CustomerOrder.Models\\CustomerOrder.Models.csproj|solutionrelative:customerorder.models\\entitymodels\\customercategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B69AAAD6-D44A-FFC3-B27E-D9A97C95E3CA}|CustomerOrder.Application.Configurations\\CustomerOrder.Application.Configurations.csproj|e:\\project\\customerorder\\customerorder.application.configurations\\customerorder.application.configurations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B69AAAD6-D44A-FFC3-B27E-D9A97C95E3CA}|CustomerOrder.Application.Configurations\\CustomerOrder.Application.Configurations.csproj|solutionrelative:customerorder.application.configurations\\customerorder.application.configurations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77127FFA-657A-4DEF-BB27-5E1F747A5FE7}|CustomerOrder.Models\\CustomerOrder.Models.csproj|e:\\project\\customerorder\\customerorder.models\\entitymodels\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77127FFA-657A-4DEF-BB27-5E1F747A5FE7}|CustomerOrder.Models\\CustomerOrder.Models.csproj|solutionrelative:customerorder.models\\entitymodels\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB7394EE-4AFF-06BF-9885-741CBAE65D58}|CustomerOrder.Services.Abstractions\\CustomerOrder.Services.Abstractions.csproj|e:\\project\\customerorder\\customerorder.services.abstractions\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7394EE-4AFF-06BF-9885-741CBAE65D58}|CustomerOrder.Services.Abstractions\\CustomerOrder.Services.Abstractions.csproj|solutionrelative:customerorder.services.abstractions\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77127FFA-657A-4DEF-BB27-5E1F747A5FE7}|CustomerOrder.Models\\CustomerOrder.Models.csproj|e:\\project\\customerorder\\customerorder.models\\entitymodels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77127FFA-657A-4DEF-BB27-5E1F747A5FE7}|CustomerOrder.Models\\CustomerOrder.Models.csproj|solutionrelative:customerorder.models\\entitymodels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A3E2AB4-12A7-5931-F2F2-564FDF44954A}|CustomerOrder.Services\\CustomerOrder.Services.csproj|e:\\project\\customerorder\\customerorder.services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3E2AB4-12A7-5931-F2F2-564FDF44954A}|CustomerOrder.Services\\CustomerOrder.Services.csproj|solutionrelative:customerorder.services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB14024-668E-3681-ED32-77B8A7E1F1DD}|CustomerOrder\\CustomerOrder.csproj|e:\\project\\customerorder\\customerorder\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB14024-668E-3681-ED32-77B8A7E1F1DD}|CustomerOrder\\CustomerOrder.csproj|solutionrelative:customerorder\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3E2AB4-12A7-5931-F2F2-564FDF44954A}|CustomerOrder.Services\\CustomerOrder.Services.csproj|e:\\project\\customerorder\\customerorder.services\\base\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3E2AB4-12A7-5931-F2F2-564FDF44954A}|CustomerOrder.Services\\CustomerOrder.Services.csproj|solutionrelative:customerorder.services\\base\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9AEF62-459D-8996-85E4-C8B93D2E040B}|CustomerOrder.Models\\CustomerOrder.Models.csproj|e:\\project\\customerorder\\customerorder.models\\entitymodels\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9AEF62-459D-8996-85E4-C8B93D2E040B}|CustomerOrder.Models\\CustomerOrder.Models.csproj|solutionrelative:customerorder.models\\entitymodels\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB14024-668E-3681-ED32-77B8A7E1F1DD}|CustomerOrder\\CustomerOrder.csproj|e:\\project\\customerorder\\customerorder\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CB14024-668E-3681-ED32-77B8A7E1F1DD}|CustomerOrder\\CustomerOrder.csproj|solutionrelative:customerorder\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB14024-668E-3681-ED32-77B8A7E1F1DD}|CustomerOrder\\CustomerOrder.csproj|e:\\project\\customerorder\\customerorder\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CB14024-668E-3681-ED32-77B8A7E1F1DD}|CustomerOrder\\CustomerOrder.csproj|solutionrelative:customerorder\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB14024-668E-3681-ED32-77B8A7E1F1DD}|CustomerOrder\\CustomerOrder.csproj|e:\\project\\customerorder\\customerorder\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CB14024-668E-3681-ED32-77B8A7E1F1DD}|CustomerOrder\\CustomerOrder.csproj|solutionrelative:customerorder\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB14024-668E-3681-ED32-77B8A7E1F1DD}|CustomerOrder\\CustomerOrder.csproj|e:\\project\\customerorder\\customerorder\\models\\viewmodels\\customers\\customereditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB14024-668E-3681-ED32-77B8A7E1F1DD}|CustomerOrder\\CustomerOrder.csproj|solutionrelative:customerorder\\models\\viewmodels\\customers\\customereditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB14024-668E-3681-ED32-77B8A7E1F1DD}|CustomerOrder\\CustomerOrder.csproj|e:\\project\\customerorder\\customerorder\\models\\viewmodels\\customers\\customerindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB14024-668E-3681-ED32-77B8A7E1F1DD}|CustomerOrder\\CustomerOrder.csproj|solutionrelative:customerorder\\models\\viewmodels\\customers\\customerindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757405E6-5145-0728-2D98-81216F99560E}|CustomerOrder.Repositories\\CustomerOrder.Repositories.csproj|e:\\project\\customerorder\\customerorder.repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757405E6-5145-0728-2D98-81216F99560E}|CustomerOrder.Repositories\\CustomerOrder.Repositories.csproj|solutionrelative:customerorder.repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934A0F53-CD77-87DA-5640-B0651549FE75}|CustomerOrder.Repositories.Abstractions\\CustomerOrder.Repositories.Abstractions.csproj|e:\\project\\customerorder\\customerorder.repositories.abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934A0F53-CD77-87DA-5640-B0651549FE75}|CustomerOrder.Repositories.Abstractions\\CustomerOrder.Repositories.Abstractions.csproj|solutionrelative:customerorder.repositories.abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934A0F53-CD77-87DA-5640-B0651549FE75}|CustomerOrder.Repositories.Abstractions\\CustomerOrder.Repositories.Abstractions.csproj|e:\\project\\customerorder\\customerorder.repositories.abstractions\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934A0F53-CD77-87DA-5640-B0651549FE75}|CustomerOrder.Repositories.Abstractions\\CustomerOrder.Repositories.Abstractions.csproj|solutionrelative:customerorder.repositories.abstractions\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757405E6-5145-0728-2D98-81216F99560E}|CustomerOrder.Repositories\\CustomerOrder.Repositories.csproj|e:\\project\\customerorder\\customerorder.repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757405E6-5145-0728-2D98-81216F99560E}|CustomerOrder.Repositories\\CustomerOrder.Repositories.csproj|solutionrelative:customerorder.repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9AEF62-459D-8996-85E4-C8B93D2E040B}|CustomerOrder.Models\\CustomerOrder.Models.csproj|e:\\project\\customerorder\\customerorder.models\\entitymodels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9AEF62-459D-8996-85E4-C8B93D2E040B}|CustomerOrder.Models\\CustomerOrder.Models.csproj|solutionrelative:customerorder.models\\entitymodels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9AEF62-459D-8996-85E4-C8B93D2E040B}|CustomerOrder.Models\\CustomerOrder.Models.csproj|e:\\project\\customerorder\\customerorder.models\\entitymodels\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9AEF62-459D-8996-85E4-C8B93D2E040B}|CustomerOrder.Models\\CustomerOrder.Models.csproj|solutionrelative:customerorder.models\\entitymodels\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,58 +103,253 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IService.cs",
-              "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder.Services.Abstractions\\IService.cs",
-              "RelativeDocumentMoniker": "CustomerOrder.Services.Abstractions\\IService.cs",
-              "ToolTip": "E:\\Project\\CustomerOrder\\CustomerOrder.Services.Abstractions\\IService.cs",
-              "RelativeToolTip": "CustomerOrder.Services.Abstractions\\IService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Title": "20260313183953_Initial.cs",
+              "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories\\Migrations\\20260313183953_Initial.cs",
+              "RelativeDocumentMoniker": "CustomerOrder.Repositories\\Migrations\\20260313183953_Initial.cs",
+              "ToolTip": "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories\\Migrations\\20260313183953_Initial.cs",
+              "RelativeToolTip": "CustomerOrder.Repositories\\Migrations\\20260313183953_Initial.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T18:18:45.305Z",
+              "WhenOpened": "2026-03-13T18:39:54.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerOrder\\Program.cs",
+              "ToolTip": "E:\\Project\\CustomerOrder\\CustomerOrder\\Program.cs",
+              "RelativeToolTip": "CustomerOrder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T11:59:48.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CustomerOrder\\Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\Project\\CustomerOrder\\CustomerOrder\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CustomerOrder\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAUwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:41:39.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomerOrder\\appsettings.json",
+              "ToolTip": "E:\\Project\\CustomerOrder\\CustomerOrder\\appsettings.json",
+              "RelativeToolTip": "CustomerOrder\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-13T11:46:43.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CustomerOrderDbContext.cs",
               "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories\\Database\\CustomerOrderDbContext.cs",
               "RelativeDocumentMoniker": "CustomerOrder.Repositories\\Database\\CustomerOrderDbContext.cs",
               "ToolTip": "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories\\Database\\CustomerOrderDbContext.cs",
               "RelativeToolTip": "CustomerOrder.Repositories\\Database\\CustomerOrderDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-07T16:43:35.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "CustomerOrder.Repositories\\Repository.cs",
-              "ToolTip": "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories\\Repository.cs",
-              "RelativeToolTip": "CustomerOrder.Repositories\\Repository.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAkwDwAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Service.cs",
+              "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder.Services\\Base\\Service.cs",
+              "RelativeDocumentMoniker": "CustomerOrder.Services\\Base\\Service.cs",
+              "ToolTip": "E:\\Project\\CustomerOrder\\CustomerOrder.Services\\Base\\Service.cs",
+              "RelativeToolTip": "CustomerOrder.Services\\Base\\Service.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T16:40:05.612Z",
+              "WhenOpened": "2026-03-13T13:27:07.822Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories.Abstractions\\IRepository.cs",
-              "RelativeDocumentMoniker": "CustomerOrder.Repositories.Abstractions\\IRepository.cs",
-              "ToolTip": "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories.Abstractions\\IRepository.cs",
-              "RelativeToolTip": "CustomerOrder.Repositories.Abstractions\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "CustomerOrder.Application.Configurations.csproj",
+              "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder.Application.Configurations\\CustomerOrder.Application.Configurations.csproj",
+              "RelativeDocumentMoniker": "CustomerOrder.Application.Configurations\\CustomerOrder.Application.Configurations.csproj",
+              "ToolTip": "E:\\Project\\CustomerOrder\\CustomerOrder.Application.Configurations\\CustomerOrder.Application.Configurations.csproj",
+              "RelativeToolTip": "CustomerOrder.Application.Configurations\\CustomerOrder.Application.Configurations.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-13T14:04:42.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder.Services.Abstractions\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "CustomerOrder.Services.Abstractions\\ICustomerService.cs",
+              "ToolTip": "E:\\Project\\CustomerOrder\\CustomerOrder.Services.Abstractions\\ICustomerService.cs",
+              "RelativeToolTip": "CustomerOrder.Services.Abstractions\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T16:15:18.277Z",
+              "WhenOpened": "2026-03-13T05:04:52.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder.Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "CustomerOrder.Services\\CustomerService.cs",
+              "ToolTip": "E:\\Project\\CustomerOrder\\CustomerOrder.Services\\CustomerService.cs",
+              "RelativeToolTip": "CustomerOrder.Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:09:49.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder.Models\\EntityModels\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerOrder.Models\\EntityModels\\Customer.cs",
+              "ToolTip": "E:\\Project\\CustomerOrder\\CustomerOrder.Models\\EntityModels\\Customer.cs",
+              "RelativeToolTip": "CustomerOrder.Models\\EntityModels\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T13:17:01.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "DependencyInjectionExtensions.cs",
+              "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder.Application.Configurations\\DependencyInjectionExtensions.cs",
+              "RelativeDocumentMoniker": "CustomerOrder.Application.Configurations\\DependencyInjectionExtensions.cs",
+              "ToolTip": "E:\\Project\\CustomerOrder\\CustomerOrder.Application.Configurations\\DependencyInjectionExtensions.cs",
+              "RelativeToolTip": "CustomerOrder.Application.Configurations\\DependencyInjectionExtensions.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T14:05:47.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "CustomerOrder\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "E:\\Project\\CustomerOrder\\CustomerOrder\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "CustomerOrder\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T05:44:07.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "CustomerOrder\\Views\\Customer\\Create.cshtml",
+              "ToolTip": "E:\\Project\\CustomerOrder\\CustomerOrder\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "CustomerOrder\\Views\\Customer\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T05:43:04.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder\\Views\\Customer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CustomerOrder\\Views\\Customer\\Edit.cshtml",
+              "ToolTip": "E:\\Project\\CustomerOrder\\CustomerOrder\\Views\\Customer\\Edit.cshtml",
+              "RelativeToolTip": "CustomerOrder\\Views\\Customer\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T05:43:48.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerEditViewModel.cs",
+              "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder\\Models\\ViewModels\\Customers\\CustomerEditViewModel.cs",
+              "RelativeDocumentMoniker": "CustomerOrder\\Models\\ViewModels\\Customers\\CustomerEditViewModel.cs",
+              "ToolTip": "E:\\Project\\CustomerOrder\\CustomerOrder\\Models\\ViewModels\\Customers\\CustomerEditViewModel.cs",
+              "RelativeToolTip": "CustomerOrder\\Models\\ViewModels\\Customers\\CustomerEditViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:45:54.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerIndexViewModel.cs",
+              "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder\\Models\\ViewModels\\Customers\\CustomerIndexViewModel.cs",
+              "RelativeDocumentMoniker": "CustomerOrder\\Models\\ViewModels\\Customers\\CustomerIndexViewModel.cs",
+              "ToolTip": "E:\\Project\\CustomerOrder\\CustomerOrder\\Models\\ViewModels\\Customers\\CustomerIndexViewModel.cs",
+              "RelativeToolTip": "CustomerOrder\\Models\\ViewModels\\Customers\\CustomerIndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:46:12.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories.Abstractions\\IRepository.cs",
+              "RelativeDocumentMoniker": "CustomerOrder.Repositories.Abstractions\\IRepository.cs",
+              "ToolTip": "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories.Abstractions\\IRepository.cs",
+              "RelativeToolTip": "CustomerOrder.Repositories.Abstractions\\IRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:34:54.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "CustomerOrder.Repositories\\CustomerRepository.cs",
+              "ToolTip": "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "CustomerOrder.Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAxwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:30:29.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories.Abstractions\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "CustomerOrder.Repositories.Abstractions\\ICustomerRepository.cs",
+              "ToolTip": "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories.Abstractions\\ICustomerRepository.cs",
+              "RelativeToolTip": "CustomerOrder.Repositories.Abstractions\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:21:42.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "IEntity.cs",
               "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder.Models\\EntityModels\\IEntity.cs",
               "RelativeDocumentMoniker": "CustomerOrder.Models\\EntityModels\\IEntity.cs",
@@ -111,41 +362,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "Order.cs",
               "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder.Models\\EntityModels\\Order.cs",
               "RelativeDocumentMoniker": "CustomerOrder.Models\\EntityModels\\Order.cs",
               "ToolTip": "E:\\Project\\CustomerOrder\\CustomerOrder.Models\\EntityModels\\Order.cs",
               "RelativeToolTip": "CustomerOrder.Models\\EntityModels\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-07T16:05:04.777Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CustomerCategory.cs",
-              "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder.Models\\EntityModels\\CustomerCategory.cs",
-              "RelativeDocumentMoniker": "CustomerOrder.Models\\EntityModels\\CustomerCategory.cs",
-              "ToolTip": "E:\\Project\\CustomerOrder\\CustomerOrder.Models\\EntityModels\\CustomerCategory.cs",
-              "RelativeToolTip": "CustomerOrder.Models\\EntityModels\\CustomerCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "CustomerOrder.Repositories\\Repository.cs",
+              "ToolTip": "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories\\Repository.cs",
+              "RelativeToolTip": "CustomerOrder.Repositories\\Repository.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAADwvzwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T16:04:45.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "E:\\Project\\CustomerOrder\\CustomerOrder.Models\\EntityModels\\Customer.cs",
-              "RelativeDocumentMoniker": "CustomerOrder.Models\\EntityModels\\Customer.cs",
-              "ToolTip": "E:\\Project\\CustomerOrder\\CustomerOrder.Models\\EntityModels\\Customer.cs",
-              "RelativeToolTip": "CustomerOrder.Models\\EntityModels\\Customer.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T16:03:47.313Z",
+              "WhenOpened": "2026-03-07T16:40:05.612Z",
               "EditorCaption": ""
             }
           ]

@@ -4,7 +4,9 @@ using System.Text;
 
 namespace CustomerOrder.Models.EntityModels
 {
-    internal class Order
+    public class Order
     {
+        public int Id { get; set; }
+        public string Description { get; set; }
     }
 }

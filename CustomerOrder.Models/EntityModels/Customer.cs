@@ -6,6 +6,10 @@ namespace CustomerOrder.Models.EntityModels
 {
     public class Customer:IEntity
     {
+        public Customer()
+        {
+            
+        }
         public Customer(string name,string phone,string address)
         {
             Name = name;
