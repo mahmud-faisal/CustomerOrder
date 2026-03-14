@@ -13,7 +13,7 @@ namespace CustomerOrder.Repositories.Database
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            string connectionString = "Server=localhost;Database=CustomerOrderDB;Trusted_Connection=True;TrustServerCertificate=True";
+            string connectionString = "Server=(localdb)\\MSSQLLocalDB;Database=CustomerOrderDB;Trusted_Connection=True;TrustServerCertificate=True";
             optionsBuilder.UseSqlServer(connectionString);
             optionsBuilder.EnableSensitiveDataLogging(true);
         }

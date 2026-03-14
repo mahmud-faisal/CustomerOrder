@@ -115,5 +115,81 @@ namespace CustomerOrder.Controllers
             return View(model);
         }
 
+
+
+        //Detail
+
+        public IActionResult Detail(int? id)
+        {
+            if (id == null)
+            {
+                return View("NotFound");
+            }
+            var customer = _customerService.Get((int)id);
+            if (customer == null)
+            {
+                return View("NotFound");
+            }
+
+            var model = new CustomerDetailViewModel()
+            {
+                
+                Name = customer.Name,
+                PhoneNo = customer.PhoneNo,
+                Address = customer.Address
+            };
+
+            return View(model);
+        }
+
+
+
+        //Remove
+
+        public IActionResult Remove(int? id)
+        {
+            if (id == null)
+            {
+                return View("NotFound");
+            }
+            var customer = _customerService.Get((int)id);
+            if (customer == null)
+            {
+                return View("NotFound");
+            }
+
+            var model = new CustomerRemoveViewModel()
+            {
+                Id = customer.Id,
+                Name = customer.Name,
+                PhoneNo = customer.PhoneNo,
+                Address = customer.Address
+            };
+
+            return View(model);
+        }
+
+
+        [HttpPost]
+        public IActionResult RemoveConfirmation(int? id)
+        {
+
+            if (id == null)
+            {
+                return View("NotFound");
+            }
+            var customer = _customerService.Get((int)id);
+            if (customer == null)
+            {
+                return View("NotFound");
+            }
+
+            _customerService.Remove(customer);
+
+            return RedirectToAction("Index");
+        }
+
+
+
     }
 }

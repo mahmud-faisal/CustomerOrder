@@ -1766,23 +1766,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Faisal Mahmud\\.nuget\\packages\\": {},
+    "C:\\Users\\faisal.mahmud\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project\\CustomerOrder\\CustomerOrder.Application.Configurations\\CustomerOrder.Application.Configurations.csproj",
+      "projectUniqueName": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Application.Configurations\\CustomerOrder.Application.Configurations.csproj",
       "projectName": "CustomerOrder.Application.Configurations",
-      "projectPath": "E:\\Project\\CustomerOrder\\CustomerOrder.Application.Configurations\\CustomerOrder.Application.Configurations.csproj",
-      "packagesPath": "C:\\Users\\Faisal Mahmud\\.nuget\\packages\\",
-      "outputPath": "E:\\Project\\CustomerOrder\\CustomerOrder.Application.Configurations\\obj\\",
+      "projectPath": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Application.Configurations\\CustomerOrder.Application.Configurations.csproj",
+      "packagesPath": "C:\\Users\\faisal.mahmud\\.nuget\\packages\\",
+      "outputPath": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Application.Configurations\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Faisal Mahmud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\faisal.mahmud\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1797,11 +1797,11 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories\\CustomerOrder.Repositories.csproj": {
-              "projectPath": "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories\\CustomerOrder.Repositories.csproj"
+            "D:\\coreProject\\CustomerOrder\\CustomerOrder.Repositories\\CustomerOrder.Repositories.csproj": {
+              "projectPath": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Repositories\\CustomerOrder.Repositories.csproj"
             },
-            "E:\\Project\\CustomerOrder\\CustomerOrder.Services\\CustomerOrder.Services.csproj": {
-              "projectPath": "E:\\Project\\CustomerOrder\\CustomerOrder.Services\\CustomerOrder.Services.csproj"
+            "D:\\coreProject\\CustomerOrder\\CustomerOrder.Services\\CustomerOrder.Services.csproj": {
+              "projectPath": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Services\\CustomerOrder.Services.csproj"
             }
           }
         }

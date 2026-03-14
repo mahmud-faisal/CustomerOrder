@@ -1,0 +1,29 @@
+﻿@using CustomerOrder.Models.ViewModels.Customers
+@model CustomerDetailViewModel
+
+<h1>Customer Detail</h1>
+
+<table class="table table-hover table-bordered table-striped">
+    <thead>
+   
+        <tr>
+            <th scope="col">Name</th>
+            <td>@Model.Name</td>
+        </tr>
+        <tr>
+            <th scope="col">Phone</th>
+            <td>@Model.Name</td>
+        </tr>
+        <tr>
+            <th scope="col">Address</th>
+            <td>@Model.Name</td>
+        </tr>
+        
+
+
+    </thead>
+
+    @* <tbody><tr><a class="btn btn-secondary">Close</a></tr></tbody> *@
+    
+</table>
+<a class="btn btn-secondary" href="~/customer/index">Close</a>

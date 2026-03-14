@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Project\\CustomerOrder\\CustomerOrder.Services\\CustomerOrder.Services.csproj": {}
+    "D:\\coreProject\\CustomerOrder\\CustomerOrder.Services\\CustomerOrder.Services.csproj": {}
   },
   "projects": {
-    "E:\\Project\\CustomerOrder\\CustomerOrder.Models\\CustomerOrder.Models.csproj": {
+    "D:\\coreProject\\CustomerOrder\\CustomerOrder.Models\\CustomerOrder.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\CustomerOrder\\CustomerOrder.Models\\CustomerOrder.Models.csproj",
+        "projectUniqueName": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Models\\CustomerOrder.Models.csproj",
         "projectName": "CustomerOrder.Models",
-        "projectPath": "E:\\Project\\CustomerOrder\\CustomerOrder.Models\\CustomerOrder.Models.csproj",
-        "packagesPath": "C:\\Users\\Faisal Mahmud\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\CustomerOrder\\CustomerOrder.Models\\obj\\",
+        "projectPath": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Models\\CustomerOrder.Models.csproj",
+        "packagesPath": "C:\\Users\\faisal.mahmud\\.nuget\\packages\\",
+        "outputPath": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Faisal Mahmud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\faisal.mahmud\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -343,20 +343,20 @@
         }
       }
     },
-    "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories.Abstractions\\CustomerOrder.Repositories.Abstractions.csproj": {
+    "D:\\coreProject\\CustomerOrder\\CustomerOrder.Repositories.Abstractions\\CustomerOrder.Repositories.Abstractions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories.Abstractions\\CustomerOrder.Repositories.Abstractions.csproj",
+        "projectUniqueName": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Repositories.Abstractions\\CustomerOrder.Repositories.Abstractions.csproj",
         "projectName": "CustomerOrder.Repositories.Abstractions",
-        "projectPath": "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories.Abstractions\\CustomerOrder.Repositories.Abstractions.csproj",
-        "packagesPath": "C:\\Users\\Faisal Mahmud\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories.Abstractions\\obj\\",
+        "projectPath": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Repositories.Abstractions\\CustomerOrder.Repositories.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\faisal.mahmud\\.nuget\\packages\\",
+        "outputPath": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Repositories.Abstractions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Faisal Mahmud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\faisal.mahmud\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -371,8 +371,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "E:\\Project\\CustomerOrder\\CustomerOrder.Models\\CustomerOrder.Models.csproj": {
-                "projectPath": "E:\\Project\\CustomerOrder\\CustomerOrder.Models\\CustomerOrder.Models.csproj"
+              "D:\\coreProject\\CustomerOrder\\CustomerOrder.Models\\CustomerOrder.Models.csproj": {
+                "projectPath": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Models\\CustomerOrder.Models.csproj"
               }
             }
           }
@@ -686,20 +686,20 @@
         }
       }
     },
-    "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories\\CustomerOrder.Repositories.csproj": {
+    "D:\\coreProject\\CustomerOrder\\CustomerOrder.Repositories\\CustomerOrder.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories\\CustomerOrder.Repositories.csproj",
+        "projectUniqueName": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Repositories\\CustomerOrder.Repositories.csproj",
         "projectName": "CustomerOrder.Repositories",
-        "projectPath": "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories\\CustomerOrder.Repositories.csproj",
-        "packagesPath": "C:\\Users\\Faisal Mahmud\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories\\obj\\",
+        "projectPath": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Repositories\\CustomerOrder.Repositories.csproj",
+        "packagesPath": "C:\\Users\\faisal.mahmud\\.nuget\\packages\\",
+        "outputPath": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Faisal Mahmud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\faisal.mahmud\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -714,11 +714,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "E:\\Project\\CustomerOrder\\CustomerOrder.Models\\CustomerOrder.Models.csproj": {
-                "projectPath": "E:\\Project\\CustomerOrder\\CustomerOrder.Models\\CustomerOrder.Models.csproj"
+              "D:\\coreProject\\CustomerOrder\\CustomerOrder.Models\\CustomerOrder.Models.csproj": {
+                "projectPath": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Models\\CustomerOrder.Models.csproj"
               },
-              "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories.Abstractions\\CustomerOrder.Repositories.Abstractions.csproj": {
-                "projectPath": "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories.Abstractions\\CustomerOrder.Repositories.Abstractions.csproj"
+              "D:\\coreProject\\CustomerOrder\\CustomerOrder.Repositories.Abstractions\\CustomerOrder.Repositories.Abstractions.csproj": {
+                "projectPath": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Repositories.Abstractions\\CustomerOrder.Repositories.Abstractions.csproj"
               }
             }
           }
@@ -1054,20 +1054,20 @@
         }
       }
     },
-    "E:\\Project\\CustomerOrder\\CustomerOrder.Services.Abstractions\\CustomerOrder.Services.Abstractions.csproj": {
+    "D:\\coreProject\\CustomerOrder\\CustomerOrder.Services.Abstractions\\CustomerOrder.Services.Abstractions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\CustomerOrder\\CustomerOrder.Services.Abstractions\\CustomerOrder.Services.Abstractions.csproj",
+        "projectUniqueName": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Services.Abstractions\\CustomerOrder.Services.Abstractions.csproj",
         "projectName": "CustomerOrder.Services.Abstractions",
-        "projectPath": "E:\\Project\\CustomerOrder\\CustomerOrder.Services.Abstractions\\CustomerOrder.Services.Abstractions.csproj",
-        "packagesPath": "C:\\Users\\Faisal Mahmud\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\CustomerOrder\\CustomerOrder.Services.Abstractions\\obj\\",
+        "projectPath": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Services.Abstractions\\CustomerOrder.Services.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\faisal.mahmud\\.nuget\\packages\\",
+        "outputPath": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Services.Abstractions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Faisal Mahmud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\faisal.mahmud\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1082,8 +1082,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "E:\\Project\\CustomerOrder\\CustomerOrder.Models\\CustomerOrder.Models.csproj": {
-                "projectPath": "E:\\Project\\CustomerOrder\\CustomerOrder.Models\\CustomerOrder.Models.csproj"
+              "D:\\coreProject\\CustomerOrder\\CustomerOrder.Models\\CustomerOrder.Models.csproj": {
+                "projectPath": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Models\\CustomerOrder.Models.csproj"
               }
             }
           }
@@ -1397,20 +1397,20 @@
         }
       }
     },
-    "E:\\Project\\CustomerOrder\\CustomerOrder.Services\\CustomerOrder.Services.csproj": {
+    "D:\\coreProject\\CustomerOrder\\CustomerOrder.Services\\CustomerOrder.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\CustomerOrder\\CustomerOrder.Services\\CustomerOrder.Services.csproj",
+        "projectUniqueName": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Services\\CustomerOrder.Services.csproj",
         "projectName": "CustomerOrder.Services",
-        "projectPath": "E:\\Project\\CustomerOrder\\CustomerOrder.Services\\CustomerOrder.Services.csproj",
-        "packagesPath": "C:\\Users\\Faisal Mahmud\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\CustomerOrder\\CustomerOrder.Services\\obj\\",
+        "projectPath": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Services\\CustomerOrder.Services.csproj",
+        "packagesPath": "C:\\Users\\faisal.mahmud\\.nuget\\packages\\",
+        "outputPath": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Faisal Mahmud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\faisal.mahmud\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1425,11 +1425,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories\\CustomerOrder.Repositories.csproj": {
-                "projectPath": "E:\\Project\\CustomerOrder\\CustomerOrder.Repositories\\CustomerOrder.Repositories.csproj"
+              "D:\\coreProject\\CustomerOrder\\CustomerOrder.Repositories\\CustomerOrder.Repositories.csproj": {
+                "projectPath": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Repositories\\CustomerOrder.Repositories.csproj"
               },
-              "E:\\Project\\CustomerOrder\\CustomerOrder.Services.Abstractions\\CustomerOrder.Services.Abstractions.csproj": {
-                "projectPath": "E:\\Project\\CustomerOrder\\CustomerOrder.Services.Abstractions\\CustomerOrder.Services.Abstractions.csproj"
+              "D:\\coreProject\\CustomerOrder\\CustomerOrder.Services.Abstractions\\CustomerOrder.Services.Abstractions.csproj": {
+                "projectPath": "D:\\coreProject\\CustomerOrder\\CustomerOrder.Services.Abstractions\\CustomerOrder.Services.Abstractions.csproj"
               }
             }
           }
